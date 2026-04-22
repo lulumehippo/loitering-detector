@@ -163,7 +163,7 @@ LOITER_THRESHOLD  = 7.0   # seconds before flagging (increase for fewer false po
 WARNING_RATIO     = 0.6   # fraction of threshold where box turns amber (0.0–1.0)
 CONFIDENCE_THRESH = 0.50  # detection confidence cutoff (lower = more detections, more noise)
 TRACK_DROP_FRAMES = 15    # frames of no detection before dropping a track
-PANEL_WIDTH       = 390   # width of the right-side info panel in pixels
+PANEL_WIDTH       = 280   # width of the right-side info panel in pixels
 ```
 
 ---
